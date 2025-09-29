@@ -1,3 +1,5 @@
+<img width="798" height="286" alt="image" src="https://github.com/user-attachments/assets/7daaa886-0f7f-45e4-92bf-fb27901460a9" />
+
 # 本㴰 (ToNatureApp)
 
 ## 📱 应用概述
